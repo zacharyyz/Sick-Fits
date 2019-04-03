@@ -6,9 +6,9 @@ import Meta from './Meta';
 const theme = {
   red: '#FF0000',
   black: '#393939',
-  grey: '#3a3a3a',
-  lightgrey: '#e1e1e1',
-  offwhite: '#ededed',
+  grey: '#3A3A3A',
+  lightgrey: '#E1E1E1',
+  offWhite: '#EDEDED',
   maxWidth: '1000px',
   bs: '0 12px 24px 0 rgba(0,0,0,0.09)'
 };
